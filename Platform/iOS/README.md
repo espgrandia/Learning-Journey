@@ -1,7 +1,7 @@
 # iOS 系統
 
 * apple support
-* iPhone, iPad, Apple TV, Apple Watch, etc... 
+* iPhone, iPad, Apple TV, Apple Watch, etc...
 
 ## [Mac](./Mac/README.md)
 
