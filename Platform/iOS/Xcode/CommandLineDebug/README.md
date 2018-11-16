@@ -2,8 +2,11 @@
 
 * 使用情境
   
-  > 在command line專案中，有時會處理 command line 的 argument。
-  > 此時在debug階段時，會想要直接下中斷點來看command line 的帶入參數，此時可用下列的步驟來模擬實際上的參數。
+ > 在command line專案中，有時會處理 command line 的 argument。
+ >
+ > 此時在debug階段時，會想要直接下中斷點來看command line 的帶入參數。
+ >
+ > 遇此狀況時可用下列的步驟來模擬實際上的參數。
 
 ---
 
