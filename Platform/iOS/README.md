@@ -8,5 +8,3 @@
 ## [iOS Developer](./iOSDeveloper/README.md)
 
 ## [ITC](./ITC/README.md)
-
-## [Xcode](./Xcode/README.md)
