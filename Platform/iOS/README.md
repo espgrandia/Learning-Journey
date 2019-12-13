@@ -10,5 +10,3 @@
 ## [PushNotification](./PushNotification/README.md)
 
 ## [ITC](./ITC/README.md)
-
-## [Xcode](./Xcode/README.md)
