@@ -64,3 +64,9 @@
 
   * result
   ![test](./pics/2020-06-22-11-09-17.png)
+
+---
+
+## 參考
+
+* [Sourcetree fails to open Diffmerge for merge conflicts - Stack Overflow](https://stackoverflow.com/questions/53249870/sourcetree-fails-to-open-diffmerge-for-merge-conflicts)
